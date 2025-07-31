@@ -9,7 +9,7 @@ This is a professional Excel dashboard that analyzes sales data across regions a
 - `Raw_data.xlsx` → Raw sales data
 - `dashboard.xlsx` → Final Excel dashboard
 - Dashboard screenshot
-![Dashboard Preview](https://github.com/Jawebdata/excel-sales-dashboard/blob/c16c6bdaf1317f8d4466ba329692fafd11fd1308/Dashboard%20image.png?raw=true)
+<img src="https://github.com/Jawebdata/excel-sales-dashboard/blob/c16c6bdaf1317f8d4466ba329692fafd11fd1308/Dashboard%20image.png?raw=true" alt="Dashboard Preview" width="600">
 
 
 
